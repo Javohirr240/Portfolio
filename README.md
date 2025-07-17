@@ -1,1 +1,3 @@
-# Portfolio
+# Portfolio 
+
+Texnologiyalar: HTML, CSS
